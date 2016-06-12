@@ -2,6 +2,13 @@
 
 > A curated list of useful EmberJS JSBins.
 
+## @mixonic JSbins for Ember.JS 2.0
+
+* [Implementation code](https://gist.github.com/mixonic/69ce88ad57a39bd1e1cf)
+* [Confirm staged value - bit.ly/cowboy-1](http://emberjs.jsbin.com/pomuvofecu/1)
+* [Force value option bit.ly/cowboy-5](http://emberjs.jsbin.com/zodajizepa/1)
+
+
 ## UI Elements
 
 * [Lazy Image Loading Component](http://jsbin.com/jikona/1)
